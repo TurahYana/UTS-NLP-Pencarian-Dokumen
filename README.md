@@ -16,7 +16,7 @@ Membangun purwarupa mesin pencari dokumen sederhana yang mampu memproses *query*
 
 1. **Clone repositori**
    ```bash
-   git clone [https://github.com/username-kamu/nlp-information-retrieval.git](https://github.com/username-kamu/nlp-information-retrieval.git)
+   git clone https://github.com/TurahYana/UTS-NLP-Pencarian-Dokumen.git
    cd nlp-information-retrieval
 
 2. **Google Drive Dataset**
@@ -25,8 +25,8 @@ Membangun purwarupa mesin pencari dokumen sederhana yang mampu memproses *query*
 
 3. **Jupyter Notebook**
    ```bash
-   https://drive.google.com/file/d/1CssyTUb5FDN2XPGfTlYu5bXbX-6ZdFZg/view?usp=sharing](https://colab.research.google.com/drive/1nFq_SGQj06JlzJhLmexB4kj8277-8Gco?usp=sharing
+   https://colab.research.google.com/drive/1nFq_SGQj06JlzJhLmexB4kj8277-8Gco?usp=sharing
 
 4. **Kaggle Dataset**
    ```bash
-   [Indonesian Hoax News Dataset](https://www.kaggle.com/datasets/ireddragonicy/indonesian-hoax-news-dataset/data)
+   https://www.kaggle.com/datasets/ireddragonicy/indonesian-hoax-news-dataset/data
